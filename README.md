@@ -1,2 +1,2 @@
 # python-coding-class-note
-hands on practice way for perfection
+Hands on practice way for perfection
